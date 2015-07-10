@@ -43,7 +43,7 @@
 00 10 * * * python /home/pi/TweetBot/tweet.py '10:00'
 00 11 * * * python /home/pi/TweetBot/tweet.py '11:00'
 00 12 * * * python /home/pi/TweetBot/tweet.py '12:00'
-0 13 * * * python /home/pi/TweetBot/tweet.py '13:00'
+00 13 * * * python /home/pi/TweetBot/tweet.py '13:00'
 00 14 * * * python /home/pi/TweetBot/tweet.py '14:00'
 00 15 * * * python /home/pi/TweetBot/tweet.py '15:00'
 00 16 * * * python /home/pi/TweetBot/tweet.py '16:00'
