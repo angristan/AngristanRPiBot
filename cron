@@ -1,7 +1,7 @@
 */5 * * * * python /home/pi/TweetBot/temp.py
 0 * * * * python /home/pi/TweetBot/uptime.py
 */15 * * * * bash /home/pi/TweetBot/load.sh
-*/45 * * * * bash /home/pi/TweetBot/ram.sh
+*/33 * * * * bash /home/pi/TweetBot/ram.sh
 00 10 * * * python /home/pi/TweetBot/tweet.py 'Bien dormi ? :)'
 30 12 * * * python /home/pi/TweetBot/tweet.py 'Bon appétit ;)'
 00 22 * * * python /home/pi/TweetBot/tweet.py 'Au dodo ! Dormez bien :p'
