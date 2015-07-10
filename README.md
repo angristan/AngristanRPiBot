@@ -1,8 +1,9 @@
 # twython-scripts
-Some scripts to make a Twitter bot in Python/bash.
+Quelques scripts pour faire un bot Twitter en Python/Bash, sur un Raspberry Pi.
 
-##Requirements
-Here is how to install all the needed tools :
+##Pré-requis
+Voici comment installer les outils nécessaires :
+
 `sudo apt-get install python-setuptools python-dev libffi-dev libssl-dev`
 
 `sudo easy_install pip`
@@ -12,5 +13,10 @@ Here is how to install all the needed tools :
 `sudo pip install requests[security]`
 
 #Bot
-To make a bot with these scripts, use [cron](https://en.wikipedia.org/wiki/Cron)
-Here is an exemple :
+Pour faire un bot avec ces scripts, utilisez [cron](https://fr.wikipedia.org/wiki/Cron).
+
+Par exemple : https://github.com/Angristan/twython-scripts/blob/master/cron.
+
+#Ça donne quoi ?
+
+J'ai mis tout ceci en application sur un Raspberry PI 2. Vous pouvez le suivre : [@AngristanRPiBot](https://twitter.com/AngristanRPiBot/).
