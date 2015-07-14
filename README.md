@@ -1,4 +1,4 @@
-# twython-scripts
+#twython-scripts
 Quelques scripts pour faire un bot Twitter en Python/Bash, sur un Raspberry Pi.
 
 ##Pré-requis
@@ -36,3 +36,11 @@ Par exemple : https://github.com/Angristan/twython-scripts/blob/master/cron.
 J'ai mis tout ceci en application sur un Raspberry PI 2. Vous pouvez le suivre : [@AngristanRPiBot](https://twitter.com/AngristanRPiBot/).
 
 Enjoy !
+
+##Contact
+
+http://angristan.fr/contact/
+
+##License
+
+[The unlicense](https://github.com/Angristan/ArchLinux-DNS-server/blob/master/LICENSE) (public domain)
