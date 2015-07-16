@@ -43,4 +43,4 @@ http://angristan.fr/contact/
 
 ## License
 
-[The unlicense](https://github.com/Angristan/ArchLinux-DNS-server/blob/master/LICENSE) (public domain)
+[The unlicense](https://github.com/Angristan/twython-scripts/blob/master/LICENSE) (public domain)
