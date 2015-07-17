@@ -41,6 +41,6 @@ Enjoy !
 
 http://angristan.fr/contact/
 
-## License
+## Licence
 
 [The unlicense](https://github.com/Angristan/twython-scripts/blob/master/LICENSE) (public domain)
