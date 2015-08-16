@@ -1,6 +1,6 @@
 #!/bin/bash
-totalkb=`grep MemTotal /proc/meminfo | awk '{print $2}'`
-freekb=`grep MemFree /proc/meminfo | awk '{print $2}'`
+totalkb=$(grep MemTotal /proc/meminfo | awk '{print $2}')
+freekb=$(grep MemFree /proc/meminfo | awk '{print $2}')
 let "totalmb = $totalkb / 1000"
 let "freemb = $freekb / 1000"
 let "usedmb = $totalmb - $freemb"
