@@ -1,10 +1,10 @@
 #!/bin/bash
 if [ -e /home/pi/TweetBot/tweetcount.txt ]
 then
-	tweetcount=`cat /home/pi/TweetBot/tweetcount.txt`
+	tweetcount=$(cat /home/pi/TweetBot/tweetcount.txt)
 else
 	echo "1" > /home/pi/TweetBot/tweetcount.txt
-	tweetcount=`cat /home/pi/TweetBot/tweetcount.txt`
+	tweetcount=$(cat /home/pi/TweetBot/tweetcount.txt)
 fi
 if [[ $tweetcount == "1" ]]
 then
