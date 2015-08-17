@@ -6,9 +6,7 @@ Quelques scripts pour faire un bot Twitter en Python/Bash, sur un Raspberry Pi.
 ### Les paquets
 Voici comment installer les outils nécessaires :
 
-`sudo apt-get install python-setuptools python-dev libffi-dev libssl-dev`
-
-`sudo easy_install pip`
+`sudo apt-get install python-setuptools python-dev libffi-dev libssl-dev python-pip`
 
 `sudo pip install twython`
 
