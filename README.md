@@ -35,10 +35,6 @@ J'ai mis tout ceci en application sur un Raspberry Pi. Vous pouvez le suivre : [
 
 Enjoy !
 
-## Contact
-
-http://angristan.fr/contact/
-
 ## Licence
 
-[The unlicense](https://github.com/Angristan/twython-scripts/blob/master/LICENSE) (public domain)
+[The unlicense](https://github.com/Angristan/twython-scripts/blob/master/LICENSE) : do whatever you want with the code.
